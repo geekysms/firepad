@@ -24,14 +24,14 @@
     "firepad": "^1.5.9",
     "install": "^0.13.0",
     "ngx-monaco-editor": "^8.1.1",
-    "npm": "^6.13.6",
+    "npm": "^9.6.6",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.13.0",
-    "@angular/cli": "~7.3.9",
+    "@angular/cli": "~16.0.0",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
     "@types/node": "~8.9.4",
